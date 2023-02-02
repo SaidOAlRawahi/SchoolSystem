@@ -426,8 +426,6 @@ class DeserializeStudentsDataItem extends MenuItem{
 	}
 }
 
-//Tests
-
 
 class ExitItem extends MenuItem{
 	ExitItem(String title){
